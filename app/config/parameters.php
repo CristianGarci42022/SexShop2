@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'sexshop',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'LwyAXB4rgrXkNp9B8xQx1LLiUkua9w5WJFUsYA92pbdt1Fam0CLz3CrF1nydXN0R',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2024-04-03',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'XfXe7omcGcQb36abpQkKOqpDWnk8T13tqwzOtvQd2OjJneTceJygQ9CTIeANLxjE',
+    'cookie_iv' => 'YeaD1SoWSk9LPe1HJQVquIZJjsUCRG5I',
+    'new_cookie_key' => 'def000002d15ded3faeb5ce32e135fa5f8527947bb7aaddfa8f4ce4d9a4fba1bac366f9ce5b57a37223a2b86a9df93728733c84a0b317c7e3b623e408832eb73b3309c1a',
+  ),
+);
